@@ -10,5 +10,8 @@ This is a simple C++ consoke application created for GIt Lab 1.
 - Create, Edit, Commit, and Push changes made to a repository to Github
 - How to collaborate sucessfully with other people on GitHub
 
+
+## changing of features
+I Dallas Hernandez have altered the greeting 
 ## Team members
 -Dallas Hernandez

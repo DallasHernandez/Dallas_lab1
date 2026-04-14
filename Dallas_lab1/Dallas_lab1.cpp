@@ -10,6 +10,8 @@ int main()
 
     cout << " Lab 1 completed on April 13 ";
 
-    cout << "Feature by Dallas Hernandez...... Braching is awesome";
+    cout << "Feature by Dallas Hernandez...... Branching is awesome";
+
+    cout << "Test";
 }
 

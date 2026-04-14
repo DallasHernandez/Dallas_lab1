@@ -13,5 +13,14 @@ This is a simple C++ consoke application created for GIt Lab 1.
 
 ## changing of features
 I Dallas Hernandez have altered the greeting 
+
 ## Team members
+
 -Dallas Hernandez
+
+# Dallas - Lab_2
+
+## What I learned
+- I learned how to create a branch 
+- I learned how to succesfully edit, save, and push from the feature to the main body to another team mate 
+- 
